@@ -8,6 +8,18 @@ body {
   color: #ffffff;
 }
 
+h1 {
+  text-align: center;
+  font-family: Helvetica, Arial,sans-serif;
+  font-size: 30pt;
+  font-weight: bold;
+  color: #ffffff;
+  background-color: #000000;
+  border: #ffffff 4px solid;
+  padding: 10px;
+  margin: 20px;
+}
+
 img {
   max-width: 100%;
   height: auto;

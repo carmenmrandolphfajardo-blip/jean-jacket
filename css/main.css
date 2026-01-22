@@ -8,9 +8,22 @@ body {
   margin: 0;
   text-align: center;
   font-family: Helvetica, Arial,sans-serif;
+  font-size: 20pt;
+  font-weight: lighter;
+  color: #000000;
+}
+
+a {
+  text-decoration: underline;
+  text-align: center;
+  font-family: Helvetica, Arial, sans-serif;
   font-size: 30pt;
   font-weight: bold;
   color: #ffffff;
+  background-color: #000000;
+  border: #ffffff 4px solid;
+  padding: 10px;
+  margin: 50px;
 }
 
 h1 {
@@ -22,7 +35,19 @@ h1 {
   background-color: #000000;
   border: #ffffff 4px solid;
   padding: 10px;
-  margin: 20px;
+  margin: 100px;
+}
+
+h2 {
+  text-align: center;
+  font-family: Helvetica, Arial,sans-serif;
+  font-size: 24pt;
+  font-weight: lighter;
+  color: #ffffff;
+  background-color: #000000;
+  border: #ffffff 4px solid;
+  padding: 8px;
+  margin: 100px;
 }
 
 img {

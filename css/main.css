@@ -53,6 +53,17 @@ a:focus {
   outline: 3px solid #ffffff;
 }
 
+.back a {
+  width: 10%;
+  height: 10%;
+  padding: 4%;
+  margin: 2%;
+  justify-content: center;
+  align-content: center;
+  background-color: transparent;
+  border: none;
+}
+
 img {
   max-width: 100%;
   height: auto;
@@ -68,7 +79,7 @@ h2 {
   background-color: #000000;
   border: #ffffff 4px solid;
   padding: 8px;
-  margin: 100px;
+  display: inline-flex;
 }
 
 .book {

@@ -11,6 +11,10 @@ body {
   font-size: 24pt;
   font-weight: lighter;
   color: #000000;
+  background-image: url(../img/jean.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 a {
@@ -26,6 +30,10 @@ a {
   margin: 50px;
   display: inline-block;
   justify-content: center;
+}
+
+a:hover {
+  color: #ffee00;
 }
 
 h1 {

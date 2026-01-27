@@ -28,15 +28,17 @@ h1 {
   margin: 50px;
 }
 
+/* Make icons for the links */
+
 a {
   text-align: center;
   text-decoration: none;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 30pt;
   font-weight: bold;
-  color: #ffee00;
+  color: #e9c40e;
   background-color: #000000;
-  border: #ffffff 4px solid;
+  border: #e9c40e 4px solid;
   padding: 10px;
   margin: 50px;
   display: inline-block;
@@ -48,7 +50,7 @@ a:hover {
 }
 
 a:focus {
-  outline: 3px solid #ffee00;
+  outline: 3px solid #ffffff;
 }
 
 img {

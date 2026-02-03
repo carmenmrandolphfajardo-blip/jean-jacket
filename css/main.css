@@ -6,9 +6,10 @@ html {
 body {
   margin: 0;
   text-align: center;
-  font-family: Helvetica, Arial,sans-serif;
+  font-family: "kit-rounded", sans-serif;
+  font-weight: 700;
+  font-style: normal;
   font-size: 24px;
-  font-weight: lighter;
   color: #000000;
   background-image: url(../img/jean.jpg);
   background-size: 100% 100%;
@@ -18,9 +19,10 @@ body {
 
 h1 {
   text-align: center;
-  font-family: Helvetica, Arial,sans-serif;
+  font-family: "kit-rounded", sans-serif;
+  font-weight: 900;
+  font-style: normal;
   font-size: 36px;
-  font-weight: bold;
   color: #ffffff;
   background-color: #000000;
   border: #ffffff 4px solid;
@@ -33,9 +35,10 @@ h1 {
 a {
   text-align: center;
   text-decoration: none;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: "kit-rounded", sans-serif;
+  font-weight: 400;
+  font-style: normal;
   font-size: 30px;
-  font-weight: bold;
   color: #e8c931;
   background-color: #000000;
   border: #e8c931 4px solid;
@@ -66,9 +69,10 @@ a:focus {
 
 h2 {
   text-align: center;
-  font-family: Helvetica, Arial,sans-serif;
+  font-family: "kit-rounded", sans-serif;
+  font-weight: 700;
+  font-style: normal;
   font-size: 24px;
-  font-weight: lighter;
   color: #ffffff;
   background-color: #000000;
   border: #ffffff 4px solid;
@@ -78,9 +82,10 @@ h2 {
 
 p {
   text-align: center;
-  font-family: Helvetica, Arial,sans-serif;
+  font-family: "kit-rounded", sans-serif;
+  font-weight: 300;
+  font-style: normal;
   font-size: 20px;
-  font-weight: lighter;
   color: #000000;
   background-color: #ffffff;
   padding: 10px;

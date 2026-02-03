@@ -63,14 +63,14 @@ a:focus {
   margin: 10px;
   justify-content: center;
   align-content: center;
-  background-color: transparent;
-  border: none;
+  background-color: #000000;
+  border: #e8c931 4px solid;
   display: inline-flex;
 }
 
 .top-links a:hover {
   background-color: transparent;
-  border: #e8c931 4px solid;
+  border: #ffffff 4px solid;
 }
 
 h2 {

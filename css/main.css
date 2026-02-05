@@ -56,7 +56,7 @@ a:focus {
   outline: 3px solid #ffffff;
 }
 
-.nav{
+.top-links a{
   width: 150px;
   height: auto;
   padding: 8px;
@@ -68,7 +68,7 @@ a:focus {
   display: inline-flex;
 }
 
-.nav a:hover {
+.top-links a:hover {
   background-color: transparent;
   border: #ffffff 4px solid;
 }
